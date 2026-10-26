@@ -1,0 +1,8 @@
+CREATE ROLE backend_dev
+    WITH LOGIN PASSWORD 'BackendDev2026!';
+
+CREATE ROLE bi_dev
+    WITH LOGIN PASSWORD 'BiDev2026!';
+
+CREATE ROLE data_engineer
+    WITH LOGIN PASSWORD 'DataEng2026!';
